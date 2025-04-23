@@ -15,13 +15,6 @@ Course: NTUST Introduction to Information Security
 | File | Description |
 |------|-------------|
 | [`survey.pdf`](./survey.pdf) | Final version of the term report, formatted with IEEE template |
-
-The paper covers:
-- Threat model of generative AI misuse
-- Taxonomy of diffusion watermarking methods
-- Comparison of latent-space, pixel-space, and backdoor techniques
-- Model fingerprinting and reverse attribution
-- Benchmarks, regulatory discussion, and future research directions
   
 ---
 
