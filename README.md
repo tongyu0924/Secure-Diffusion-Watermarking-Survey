@@ -7,8 +7,6 @@ The report surveys recent techniques for securing diffusion-based generative mod
 
 Author: Chia-Hsuan Hsu  
 Course: NTUST Introduction to Information Security
-Instructor: *(name optional)*  
-Date: April 2025  
 
 ---
 
