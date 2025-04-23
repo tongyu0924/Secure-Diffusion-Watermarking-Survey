@@ -6,7 +6,7 @@ This repository contains the final course report for **Introduction to Informati
 The report surveys recent techniques for securing diffusion-based generative models using **watermarking** and **traceability** strategies.
 
 Author: Chia-Hsuan Hsu  
-Course: NTUST 資訊安全導論  
+Course: NTUST Introduction to Information Security
 Instructor: *(name optional)*  
 Date: April 2025  
 
@@ -24,6 +24,17 @@ The paper covers:
 - Comparison of latent-space, pixel-space, and backdoor techniques
 - Model fingerprinting and reverse attribution
 - Benchmarks, regulatory discussion, and future research directions
+  
+---
+
+## Topics Covered
+
+- Diffusion models overview 
+- Latent-space watermark injection
+- Pixel-space and steganographic methods
+- Model fingerprinting and attribution techniques
+- Legal & ethical challenges
+- Benchmark criteria (robustness, fidelity, stealth)
 
 ---
 
@@ -38,13 +49,3 @@ The paper covers:
 | Latent Fingerprinting for Diffusion Models | ICLR 2024 | [paper](https://openreview.net/forum?id=...) | Latent Encoding | Robust, identity-preserving |
 | StegaStamp | NeurIPS 2020 | [paper](https://arxiv.org/abs/2003.05523) | Image Steganography | Encoder-decoder + QR recovery |
 
----
-
-## Topics Covered
-
-- Diffusion models overview (DALL·E 2, Stable Diffusion, Imagen)
-- Latent-space watermark injection
-- Pixel-space and steganographic methods
-- Model fingerprinting and attribution techniques
-- Legal & ethical challenges (e.g., EU AI Act)
-- Benchmark criteria (robustness, fidelity, stealth)
