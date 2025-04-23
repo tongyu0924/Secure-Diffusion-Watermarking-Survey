@@ -5,7 +5,6 @@ This repository contains the final course report for **Introduction to Informati
 **National Taiwan University of Science and Technology (NTUST)**.  
 The report surveys recent techniques for securing diffusion-based generative models using **watermarking** and **traceability** strategies.
 
-Author: Chia-Hsuan Hsu  
 Course: NTUST Introduction to Information Security
 
 ---
