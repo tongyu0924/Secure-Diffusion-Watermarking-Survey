@@ -57,8 +57,6 @@ Course: NTUST Introduction to Information Security
 ### 3. Provenance Verification
 | Title | Venue | Link | Technique | Notes |
 |-------|-------|------|-----------|-------|
-| Title | Venue | Link | Technique | Notes |
-|-------|-------|------|-----------|-------|
 | **Spread Spectrum WM via Latent Diffusion** | Entropy 2025 | [MDPI](https://www.mdpi.com/1099-4300/27/4/428) | Spread-Spectrum | Coupled with diffusion noise |
 | **Ripple Watermarking for Tabular Diffusion** | TU Delft 2024 | [PDF](https://repository.tudelft.nl/file/File_5998cfdf-a2d2-42d3-a9e5-906ca767ce1c) | Latent Tabular | Focused on tabular generative models |
 | **Review: Latent Diffusion Models for WM** | Electronics 2024 | [MDPI](https://www.mdpi.com/2079-9292/14/1/25) | Survey | Summary of latent WM strategies |
