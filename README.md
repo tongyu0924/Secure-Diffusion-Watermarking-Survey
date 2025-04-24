@@ -28,7 +28,7 @@ Course: NTUST Introduction to Information Security
 
 ---
 
-## 📄 Surveyed Papers
+## Surveyed Papers
 
 ### 1. Model-level Watermarking
 | Title | Venue | Link | Technique | Notes |
