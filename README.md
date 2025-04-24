@@ -30,34 +30,34 @@ Course: NTUST Introduction to Information Security
 
 ## Taxonomy Overview
 
-Secure Watermarking in Diffusion Models
-├── 1. Model-level Watermarking
-│   ├── 🔹 Latent-space Watermarking
-│   │   ├── CLUE-MARK (arXiv 2024)
-│   │   ├── Robin (NeurIPS 2024)
-│   │   └── Gauge Flow Matching, PT-Mark, etc.
-│   └── 🔸 Semantic-aware / Adversarial
-│       └── Flexible Semantic WM (ACM 2024), PT-Mark
+1. Model-level Watermarking
+   ├── Latent-space Watermarking
+   │   ├── CLUE-MARK (arXiv 2024)
+   │   ├── Robin (NeurIPS 2024)
+   │   └── Gauge Flow Matching, PT-Mark, etc.
+   └── Semantic-aware / Adversarial
+       └── Flexible Semantic WM (ACM 2024), PT-Mark
 
-├── 2. Output-level Traceability
-│   ├── 📷 Image/Video Watermarking
-│   │   ├── CoSDA (AAAI 2025)
-│   │   ├── DTR: Tree-Ring Video (ICASSP 2025)
-│   │   └── NTU Editing WM, Stable-Diffusion
-│   └── 🔒 Decoder Inversion & Perturbation Defenses
-│       ├── Gradient-Free Decoder Inversion (NeurIPS 2024)
-│       └── WM vs. Perturbation (OpenReview 2024)
+2. Output-level Traceability
+   ├── Image/Video Watermarking
+   │   ├── CoSDA (AAAI 2025)
+   │   ├── DTR: Tree-Ring Video (ICASSP 2025)
+   │   └── NTU Editing WM, Stable-Diffusion
+   └── Decoder Inversion & Perturbation Defenses
+       ├── Gradient-Free Decoder Inversion (NeurIPS 2024)
+       └── WM vs. Perturbation (OpenReview 2024)
 
-├── 3. Provenance Verification
-│   ├── 🧬 Fingerprinting & Style Detection
-│   │   ├── ICCV 2023 (Diffusion Signature)
-│   │   ├── CVPR 2020, TPAMI 2023 (GAN Fingerprints)
-│   │   └── Self-supervised Face Detection (OpenReview 2024)
-│   ├── 🎯 Identity Embedding
-│   │   └── Stable Signature (arXiv 2023)
-│   └── 📊 Diffusion-aware Survey & Tabular Cases
-│       ├── Entropy 2025 (Spread-Spectrum WM)
-│       └── TU Delft 2024 (Tabular Diffusion)
+3. Provenance Verification
+   ├── Fingerprinting & Style Detection
+   │   ├── ICCV 2023 (Diffusion Signature)
+   │   ├── CVPR 2020, TPAMI 2023 (GAN Fingerprints)
+   │   └── Self-supervised Face Detection (OpenReview 2024)
+   ├── Identity Embedding
+   │   └── Stable Signature (arXiv 2023)
+   └── Diffusion-aware Survey & Tabular Cases
+       ├── Entropy 2025 (Spread-Spectrum WM)
+       └── TU Delft 2024 (Tabular Diffusion)
+
 
 ---
 
