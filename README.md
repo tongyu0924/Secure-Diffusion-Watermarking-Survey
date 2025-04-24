@@ -65,39 +65,42 @@ Provenance Verification
 ## Surveyed Papers
 
 ### 1. Model-level Watermarking
-| Title | Venue | Link | Technique | Notes |
-|-------|-------|------|-----------|-------|
-| **CLUE-MARK: Watermarking Diffusion Models using CLWE** | arXiv 2024 | [arXiv:2411.11434](https://arxiv.org/abs/2411.11434) | Latent Watermarking | Multi-key support, no model modification |
-| **PCDiff: Proactive Control for Ownership Protection** | arXiv 2025 | [arXiv:2504.11774](https://arxiv.org/abs/2504.11774) | Ownership + Traceability | Proactive access control framework |
-| **PT-Mark: Invisible Watermarking via Semantic Tuning** | arXiv 2025 | [arXiv:2504.10853](https://arxiv.org/abs/2504.10853) | Semantic-aware Tuning | Preserves watermark through denoising |
-| **Flexible Semantic Watermarking** | ACM 2024 | [DOI:10.1145/3696409.3700282](https://dl.acm.org/doi/abs/10.1145/3696409.3700282) | Diffusion Sampling | Robust to semantic editing |
-| **Robin: Robust and Invisible Watermarks for Diffusion Models** | NeurIPS 2024 | [Link](https://proceedings.neurips.cc/paper_files/paper/2024/file/073c8584ef86bee26fe9d639ec648e28-Paper-Conference.pdf) | Adversarial Watermarking | Embeds adversarially-optimized imperceptible watermarks |
-| **Are Watermarks for Diffusion Models Radioactive?** | OpenReview Workshop 2024 | [Link](https://openreview.net/forum?id=gtXbVRMwQh) | Watermark Training | Evaluates persistent effects of training on watermarked data |
-| **Gauge Flow Matching for Constrained Generative Modeling** | ICLR Workshop 2025 | [Link](https://openreview.net/pdf?id=QyIlskgko9) | Constrained Diffusion | Enables watermark-aware constrained generation |
+
+| Title | Venue | Link | Technique | Code |
+|-------|-------|------|-----------|------|
+| **CLUE-MARK: Watermarking Diffusion Models using CLWE** | arXiv 2024 | [arXiv:2411.11434](https://arxiv.org/abs/2411.11434) | Latent Watermarking | None |
+| **PCDiff: Proactive Control for Ownership Protection** | arXiv 2025 | [arXiv:2504.11774](https://arxiv.org/abs/2504.11774) | Ownership + Traceability | None |
+| **PT-Mark: Invisible Watermarking via Semantic Tuning** | arXiv 2025 | [arXiv:2504.10853](https://arxiv.org/abs/2504.10853) | Semantic-aware Tuning | None |
+| **Flexible Semantic Watermarking** | ACM 2024 | [DOI:10.1145/3696409.3700282](https://dl.acm.org/doi/abs/10.1145/3696409.3700282) | Diffusion Sampling | None |
+| **Robin: Robust and Invisible Watermarks for Diffusion Models** | NeurIPS 2024 | [PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/073c8584ef86bee26fe9d639ec648e28-Paper-Conference.pdf) | Adversarial Watermarking | None |
+| **Are Watermarks for Diffusion Models Radioactive?** | OpenReview 2024 | [Link](https://openreview.net/forum?id=gtXbVRMwQh) | Watermark Training | None |
+| **Gauge Flow Matching for Constrained Generative Modeling** | ICLR Workshop 2025 | [PDF](https://openreview.net/pdf?id=QyIlskgko9) | Constrained Diffusion | None |
 
 ---
 
 ### 2. Output-level Traceability
-| Title | Venue | Link | Technique | Notes |
-|-------|-------|------|-----------|-------|
-| **CoSDA: Inversion-based Robust Watermarking** | AAAI 2025 | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/32295) | Output Watermarking | Evaluates bit-level accuracy |
-| **DTR: Tree-Ring Watermarking for Videos** | IEEE ICASSP 2025 | [IEEE Abstract](https://ieeexplore.ieee.org/abstract/document/10888152) | Video Hierarchical WM | Adapts to temporal structure |
-| **Stable-Diffusion Image Editing Watermarks** | NTU DR 2025 | [NTU Repository](https://dr.ntu.edu.sg/handle/10356/182920) | Imperceptible WM | Designed for editing pipelines |
-| **Gradient-free Decoder Inversion in Latent Diffusion** | NeurIPS 2024 | [Link](https://proceedings.neurips.cc/paper_files/paper/2024/file/970f59b22f4c72aec75174aae63c7459-Paper-Conference.pdf) | Decoder Inversion | Discusses inversion risks & detection |
-| **Watermarks vs. Perturbations for Preventing Style Editing** | OpenReview Workshop 2024 | [Link](https://openreview.net/forum?id=mRCXybDMF6) | Defense Strategies | Compares watermark vs. perturbation noise |
+
+| Title | Venue | Link | Technique | Code |
+|-------|-------|------|-----------|------|
+| **CoSDA: Inversion-based Robust Watermarking** | AAAI 2025 | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/32295) | Output Watermarking | None |
+| **DTR: Tree-Ring Watermarking for Videos** | IEEE ICASSP 2025 | [IEEE Abstract](https://ieeexplore.ieee.org/abstract/document/10888152) | Video Hierarchical WM | None |
+| **Stable-Diffusion Image Editing Watermarks** | NTU DR 2025 | [NTU Repository](https://dr.ntu.edu.sg/handle/10356/182920) | Imperceptible WM | None |
+| **Gradient-free Decoder Inversion in Latent Diffusion** | NeurIPS 2024 | [Link](https://proceedings.neurips.cc/paper_files/paper/2024/file/970f59b22f4c72aec75174aae63c7459-Paper-Conference.pdf) | Decoder Inversion | None |
+| **Watermarks vs. Perturbations for Preventing Style Editing** | OpenReview Workshop 2024 | [Link](https://openreview.net/forum?id=mRCXybDMF6) | Defense Strategies | None |
 
 ---
 
 ### 3. Provenance Verification
-| Title | Venue | Link | Technique | Notes |
-|-------|-------|------|-----------|-------|
-| **Spread Spectrum WM via Latent Diffusion** | Entropy 2025 | [MDPI](https://www.mdpi.com/1099-4300/27/4/428) | Spread-Spectrum | Coupled with diffusion noise |
-| **Ripple Watermarking for Tabular Diffusion** | TU Delft 2024 | [PDF](https://repository.tudelft.nl/file/File_5998cfdf-a2d2-42d3-a9e5-906ca767ce1c) | Latent Tabular | Focused on tabular generative models |
-| **Review: Latent Diffusion Models for WM** | Electronics 2024 | [MDPI](https://www.mdpi.com/2079-9292/14/1/25) | Survey | Summary of latent WM strategies |
-| **Self-supervised Representations for Detecting AI-Generated Faces** | OpenReview 2024 | [Link](https://openreview.net/forum?id=yXKnzFxNWK) | Style-based Fingerprinting | Indirect traceability via face embeddings |
-| **Who Made This Image? Detecting Generative Models via Traces in Diffusion** | ICCV 2023 | [arXiv](https://arxiv.org/abs/2303.09527) | Diffusion Signature | Detects model-specific trace in diffusion outputs |
-| **Stable Signature: Identity Watermarking for Stable Diffusion** | arXiv 2023 | [arXiv:2310.01856](https://arxiv.org/abs/2310.01856) | Watermark Embedding | Embeds signer identity into Stable Diffusion |
-| **A Survey on GAN Fingerprints** | IEEE TPAMI 2023 | [DOI](https://ieeexplore.ieee.org/document/10132442) | Survey | Covers fingerprinting methods for generative models |
-| **Attributing Fake Images to GANs: Learning and Analyzing Fingerprints** | CVPR 2020 | [CVF Link](https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_Attributing_Fake_Images_to_GANs_Learning_and_Analyzing_Fingerprints_CVPR_2020_paper.html) | Fingerprinting | Classic CVPR GAN fingerprinting work |
+
+| Title | Venue | Link | Technique | Code |
+|-------|-------|------|-----------|------|
+| **Spread Spectrum WM via Latent Diffusion** | Entropy 2025 | [MDPI](https://www.mdpi.com/1099-4300/27/4/428) | Spread-Spectrum | None |
+| **Ripple Watermarking for Tabular Diffusion** | TU Delft 2024 | [PDF](https://repository.tudelft.nl/file/File_5998cfdf-a2d2-42d3-a9e5-906ca767ce1c) | Latent Tabular | None |
+| **Review: Latent Diffusion Models for WM** | Electronics 2024 | [MDPI](https://www.mdpi.com/2079-9292/14/1/25) | Survey | None |
+| **Self-supervised Representations for Detecting AI-Generated Faces** | OpenReview 2024 | [Link](https://openreview.net/forum?id=yXKnzFxNWK) | Style-based Fingerprinting | None |
+| **Who Made This Image? Detecting Generative Models via Traces in Diffusion** | ICCV 2023 | [arXiv](https://arxiv.org/abs/2303.09527) | Diffusion Signature | None |
+| **Stable Signature: Identity Watermarking for Stable Diffusion** | arXiv 2023 | [arXiv:2310.01856](https://arxiv.org/abs/2310.01856) | Watermark Embedding | None |
+| **A Survey on GAN Fingerprints** | IEEE TPAMI 2023 | [DOI](https://ieeexplore.ieee.org/document/10132442) | Survey | None |
+| **Attributing Fake Images to GANs: Learning and Analyzing Fingerprints** | CVPR 2020 | [CVF Link](https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_Attributing_Fake_Images_to_GANs_Learning_and_Analyzing_Fingerprints_CVPR_2020_paper.html) | Fingerprinting | None |
 
 
