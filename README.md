@@ -28,6 +28,7 @@ Course: NTUST Introduction to Information Security
 
 ---
 
+## Taxonomy Overview
 
 Secure Watermarking in Diffusion Models
 ├── 1. Model-level Watermarking
@@ -58,7 +59,7 @@ Secure Watermarking in Diffusion Models
 │       ├── Entropy 2025 (Spread-Spectrum WM)
 │       └── TU Delft 2024 (Tabular Diffusion)
 
-
+---
 
 ## Surveyed Papers
 
