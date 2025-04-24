@@ -61,5 +61,9 @@ Course: NTUST Introduction to Information Security
 | **Ripple Watermarking for Tabular Diffusion** | TU Delft 2024 | [PDF](https://repository.tudelft.nl/file/File_5998cfdf-a2d2-42d3-a9e5-906ca767ce1c) | Latent Tabular | Focused on tabular generative models |
 | **Review: Latent Diffusion Models for WM** | Electronics 2024 | [MDPI](https://www.mdpi.com/2079-9292/14/1/25) | Survey | Summary of latent WM strategies |
 | **Self-supervised Representations for Detecting AI-Generated Faces** | OpenReview 2024 | [Link](https://openreview.net/forum?id=yXKnzFxNWK) | Style-based Fingerprinting | Indirect traceability via face embeddings |
+| **Who Made This Image? Detecting Generative Models via Traces in Diffusion** | ICCV 2023 | [arXiv](https://arxiv.org/abs/2303.09527) | Diffusion Signature | Detects model-specific trace in diffusion outputs |
+| **Stable Signature: Identity Watermarking for Stable Diffusion** | arXiv 2023 | [arXiv:2310.01856](https://arxiv.org/abs/2310.01856) | Watermark Embedding | Embeds signer identity into Stable Diffusion |
+| **A Survey on GAN Fingerprints** | IEEE TPAMI 2023 | [DOI](https://ieeexplore.ieee.org/document/10132442) | Survey | Covers fingerprinting methods for generative models |
+| **Attributing Fake Images to GANs: Learning and Analyzing Fingerprints** | CVPR 2020 | [CVF Link](https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_Attributing_Fake_Images_to_GANs_Learning_and_Analyzing_Fingerprints_CVPR_2020_paper.html) | Fingerprinting | Classic CVPR GAN fingerprinting work |
 
 
