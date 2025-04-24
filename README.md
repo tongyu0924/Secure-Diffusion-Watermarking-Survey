@@ -34,28 +34,30 @@ Secure Watermarking in Diffusion Models
 │   ├── 🔹 Latent-space Watermarking
 │   │   ├── CLUE-MARK (arXiv 2024)
 │   │   ├── Robin (NeurIPS 2024)
-│   │   └── PT-Mark, Gauge Flow Matching...
-│   └── 🔸 Semantic-aware Tuning / Adversarial Watermarking
-│       └── Flexible Semantic Watermarking (ACM 2024)
+│   │   └── Gauge Flow Matching, PT-Mark, etc.
+│   └── 🔸 Semantic-aware / Adversarial
+│       └── Flexible Semantic WM (ACM 2024), PT-Mark
 
 ├── 2. Output-level Traceability
-│   ├── 📷 Image and Video Watermarks
+│   ├── 📷 Image/Video Watermarking
 │   │   ├── CoSDA (AAAI 2025)
-│   │   ├── DTR: Tree-Ring Video WM (ICASSP 2025)
-│   │   └── Stable-Diffusion Image Editing WM (NTU 2025)
-│   └── 🔒 Decoder Inversion & Defense
-│       ├── NeurIPS 2024 - Decoder Inversion
+│   │   ├── DTR: Tree-Ring Video (ICASSP 2025)
+│   │   └── NTU Editing WM, Stable-Diffusion
+│   └── 🔒 Decoder Inversion & Perturbation Defenses
+│       ├── Gradient-Free Decoder Inversion (NeurIPS 2024)
 │       └── WM vs. Perturbation (OpenReview 2024)
 
 ├── 3. Provenance Verification
-│   ├── 🧬 Fingerprinting & Signature
-│   │   ├── ICCV 2023 - Diffusion Signature
-│   │   ├── TPAMI 2023 - GAN Fingerprints Survey
-│   │   └── CVPR 2020 - GAN Fingerprint Attribution
+│   ├── 🧬 Fingerprinting & Style Detection
+│   │   ├── ICCV 2023 (Diffusion Signature)
+│   │   ├── CVPR 2020, TPAMI 2023 (GAN Fingerprints)
+│   │   └── Self-supervised Face Detection (OpenReview 2024)
 │   ├── 🎯 Identity Embedding
 │   │   └── Stable Signature (arXiv 2023)
-│   └── 🔍 Detection & Style Analysis
-│       └── Self-supervised Face Detection (OpenReview 2024)
+│   └── 📊 Diffusion-aware Survey & Tabular Cases
+│       ├── Entropy 2025 (Spread-Spectrum WM)
+│       └── TU Delft 2024 (Tabular Diffusion)
+
 
 
 ## Surveyed Papers
