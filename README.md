@@ -28,6 +28,36 @@ Course: NTUST Introduction to Information Security
 
 ---
 
+
+Secure Watermarking in Diffusion Models
+├── 1. Model-level Watermarking
+│   ├── 🔹 Latent-space Watermarking
+│   │   ├── CLUE-MARK (arXiv 2024)
+│   │   ├── Robin (NeurIPS 2024)
+│   │   └── PT-Mark, Gauge Flow Matching...
+│   └── 🔸 Semantic-aware Tuning / Adversarial Watermarking
+│       └── Flexible Semantic Watermarking (ACM 2024)
+
+├── 2. Output-level Traceability
+│   ├── 📷 Image and Video Watermarks
+│   │   ├── CoSDA (AAAI 2025)
+│   │   ├── DTR: Tree-Ring Video WM (ICASSP 2025)
+│   │   └── Stable-Diffusion Image Editing WM (NTU 2025)
+│   └── 🔒 Decoder Inversion & Defense
+│       ├── NeurIPS 2024 - Decoder Inversion
+│       └── WM vs. Perturbation (OpenReview 2024)
+
+├── 3. Provenance Verification
+│   ├── 🧬 Fingerprinting & Signature
+│   │   ├── ICCV 2023 - Diffusion Signature
+│   │   ├── TPAMI 2023 - GAN Fingerprints Survey
+│   │   └── CVPR 2020 - GAN Fingerprint Attribution
+│   ├── 🎯 Identity Embedding
+│   │   └── Stable Signature (arXiv 2023)
+│   └── 🔍 Detection & Style Analysis
+│       └── Self-supervised Face Detection (OpenReview 2024)
+
+
 ## Surveyed Papers
 
 ### 1. Model-level Watermarking
