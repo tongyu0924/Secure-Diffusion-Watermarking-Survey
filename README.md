@@ -94,7 +94,7 @@ Ownership & Identity Protection
 | **Provenance Signature for Diffusion Model Outputs** | CVPR 2024 | [arXiv:2312.06688](https://arxiv.org/abs/2312.06688) | Output Provenance Tracking | None |
 | **VIDiff: Video Diffusion Model Fingerprinting** | CVPR 2024 | [arXiv:2312.00286](https://arxiv.org/abs/2312.00286) | Video Output Fingerprinting | [GitHub](https://github.com/hytseng0509/VIDiff) |
 | **GenTrace: Provenance Tracing for Diffusion Models** | ICLR 2024 | [OpenReview](https://openreview.net/forum?id=8Ez0cWrdA5) | Latent-space Tracing | None |
-
+| **DiffuseTrace: A Transparent and Flexible Watermarking Scheme for Latent Diffusion Model** | arXiv 2024 | [arXiv:2405.02696](https://arxiv.org/abs/2405.02696) | Semantic Latent Watermarking | None |
 
 ---
 
