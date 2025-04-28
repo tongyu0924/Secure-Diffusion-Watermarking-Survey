@@ -95,6 +95,11 @@ Ownership & Identity Protection
 | **VIDiff: Video Diffusion Model Fingerprinting** | CVPR 2024 | [arXiv:2312.00286](https://arxiv.org/abs/2312.00286) | Video Output Fingerprinting | [GitHub](https://github.com/hytseng0509/VIDiff) |
 | **GenTrace: Provenance Tracing for Diffusion Models** | ICLR 2024 | [OpenReview](https://openreview.net/forum?id=8Ez0cWrdA5) | Latent-space Tracing | None |
 | **DiffuseTrace: A Transparent and Flexible Watermarking Scheme for Latent Diffusion Model** | arXiv 2024 | [arXiv:2405.02696](https://arxiv.org/abs/2405.02696) | Semantic Latent Watermarking | None |
+| **ROBIN: Robust and Invisible Watermarks for Diffusion Models with Adversarial Optimization** | NeurIPS 2024 | [arXiv:2411.03862](https://arxiv.org/abs/2411.03862) | Adversarial Watermarking | None |
+| **ZoDiAc: Attack-Resilient Image Watermarking Using Stable Diffusion** | NeurIPS 2024 | [arXiv:2401.04247](https://arxiv.org/abs/2401.04247) | Latent Space Watermarking | [GitHub](https://github.com/zhanglijun95/ZoDiac) |
+| **InvisMark: Invisible and Robust Watermarking for AI-Generated Image Provenance** | WACV 2025 | [arXiv:2411.07795](https://arxiv.org/abs/2411.07795) | Neural Network-Based Watermarking | [GitHub](https://github.com/microsoft/InvisMark) |
+| **Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models** | arXiv 2024 | [arXiv:2410.21088](https://arxiv.org/abs/2410.21088) | Low-Dimensional Subspace Watermarking | None |
+| **ProMark: Proactive Diffusion Watermarking for Causal Attribution** | CVPR 2024 | [Poster](https://cvpr.thecvf.com/virtual/2024/poster/29862) | Causal Attribution Watermarking | None |
 
 ---
 
