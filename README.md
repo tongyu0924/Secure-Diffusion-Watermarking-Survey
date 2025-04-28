@@ -115,6 +115,4 @@ Ownership & Identity Protection
 | **PCDiff: Proactive Control for Ownership Protection** | arXiv 2025 | [arXiv:2504.11774](https://arxiv.org/abs/2504.11774) | Ownership Traceability | None |
 | **WaDiff: Watermark-Conditioned Diffusion Model for IP Protection** | arXiv 2024 | [arXiv:2403.10893](https://arxiv.org/abs/2403.10893) | Ownership Fingerprinting | [GitHub](https://github.com/rmin2000/WaDiff) |
 
----
-
 
