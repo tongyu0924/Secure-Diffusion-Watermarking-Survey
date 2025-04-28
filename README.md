@@ -91,6 +91,10 @@ Ownership & Identity Protection
 | **DTR: Tree-Ring Watermarking for Videos** | IEEE ICASSP 2025 | [IEEE Abstract](https://ieeexplore.ieee.org/abstract/document/10888152) | Video Hierarchical WM | None |
 | **Gradient-free Decoder Inversion in Latent Diffusion** | NeurIPS 2024 | [Link](https://proceedings.neurips.cc/paper_files/paper/2024/file/970f59b22f4c72aec75174aae63c7459-Paper-Conference.pdf) | Decoder Inversion | None |
 | **Watermarks vs. Perturbations for Preventing Style Editing** | OpenReview Workshop 2024 | [Link](https://openreview.net/forum?id=mRCXybDMF6) | Defense Strategies | None |
+| **Provenance Signature for Diffusion Model Outputs** | CVPR 2024 | [arXiv:2312.06688](https://arxiv.org/abs/2312.06688) | Output Provenance Tracking | None |
+| **VIDiff: Video Diffusion Model Fingerprinting** | CVPR 2024 | [arXiv:2312.00286](https://arxiv.org/abs/2312.00286) | Video Output Fingerprinting | [GitHub](https://github.com/hytseng0509/VIDiff) |
+| **GenTrace: Provenance Tracing for Diffusion Models** | ICLR 2024 | [OpenReview](https://openreview.net/forum?id=8Ez0cWrdA5) | Latent-space Tracing | None |
+
 
 ---
 
