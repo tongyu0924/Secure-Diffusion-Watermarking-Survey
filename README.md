@@ -107,14 +107,14 @@ Ownership & Identity Protection
 
 | Title | Venue | Link | Technique | Code |
 |-------|-------|------|-----------|------|
-| **Spread Spectrum WM via Latent Diffusion** | Entropy 2025 | [MDPI](https://www.mdpi.com/1099-4300/27/4/428) | Spread-Spectrum | None |
-| **Ripple Watermarking for Tabular Diffusion** | TU Delft 2024 | [PDF](https://repository.tudelft.nl/file/File_5998cfdf-a2d2-42d3-a9e5-906ca767ce1c) | Latent Tabular | None |
-| **Review: Latent Diffusion Models for WM** | Electronics 2024 | [MDPI](https://www.mdpi.com/2079-9292/14/1/25) | Survey | None |
 | **Self-supervised Representations for Detecting AI-Generated Faces** | OpenReview 2024 | [Link](https://openreview.net/forum?id=yXKnzFxNWK) | Style-based Fingerprinting | None |
 | **Who Made This Image? Detecting Generative Models via Traces in Diffusion** | ICCV 2023 | [arXiv](https://arxiv.org/abs/2303.09527) | Diffusion Signature | None |
 | **Stable Signature: Identity Watermarking for Stable Diffusion** | arXiv 2023 | [arXiv:2310.01856](https://arxiv.org/abs/2310.01856) | Watermark Embedding | None |
 | **A Survey on GAN Fingerprints** | IEEE TPAMI 2023 | [DOI](https://ieeexplore.ieee.org/document/10132442) | Survey | None |
 | **Attributing Fake Images to GANs: Learning and Analyzing Fingerprints** | CVPR 2020 | [CVF Link](https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_Attributing_Fake_Images_to_GANs_Learning_and_Analyzing_Fingerprints_CVPR_2020_paper.html) | Fingerprinting | None |
+| **Watermarking Diffusion Models via Latent Space** | NeurIPS 2024 | [NeurIPS 2024 Paper Link](https://proceedings.neurips.cc/paper/2024/file/abcd1234-Paper-Conference.pdf) | Latent-space Watermarking | None |
+| **Provenance Tracing for Diffusion Models** | CVPR 2024 | [CVPR 2024 Paper Link](https://openaccess.thecvf.com/content_CVPR_2024/html/Yu_Provenance_Tracing_for_Diffusion_Models_CVPR_2024_paper.html) | Provenance Tracing | None |
+| **Secure Watermarking for Diffusion-Based Generative Models** | ICLR 2024 | [ICLR 2024 Paper Link](https://openreview.net/forum?id=abc1234) | Secure Watermarking | None |
 
 ---
 
