@@ -58,6 +58,9 @@ Provenance Verification
     ├── Entropy 2025 (Spread-Spectrum WM)
     └── TU Delft 2024 (Tabular Diffusion)
 
+Ownership & Identity Protection
+├── PCDiff: Proactive Control for Ownership (arXiv 2025)
+└── WaDiff: Watermark-Conditioned Diffusion Model (arXiv 2024)
 ```
 
 ---
@@ -102,5 +105,16 @@ Provenance Verification
 | **Stable Signature: Identity Watermarking for Stable Diffusion** | arXiv 2023 | [arXiv:2310.01856](https://arxiv.org/abs/2310.01856) | Watermark Embedding | None |
 | **A Survey on GAN Fingerprints** | IEEE TPAMI 2023 | [DOI](https://ieeexplore.ieee.org/document/10132442) | Survey | None |
 | **Attributing Fake Images to GANs: Learning and Analyzing Fingerprints** | CVPR 2020 | [CVF Link](https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_Attributing_Fake_Images_to_GANs_Learning_and_Analyzing_Fingerprints_CVPR_2020_paper.html) | Fingerprinting | None |
+
+---
+
+### 4. Ownership & Identity Protection
+
+| Title | Venue | Link | Technique | Code |
+|-------|-------|------|-----------|------|
+| **PCDiff: Proactive Control for Ownership Protection** | arXiv 2025 | [arXiv:2504.11774](https://arxiv.org/abs/2504.11774) | Ownership Traceability | None |
+| **WaDiff: Watermark-Conditioned Diffusion Model for IP Protection** | arXiv 2024 | [arXiv:2403.10893](https://arxiv.org/abs/2403.10893) | Ownership Fingerprinting | [GitHub](https://github.com/rmin2000/WaDiff) |
+
+---
 
 
