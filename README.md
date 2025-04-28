@@ -74,10 +74,12 @@ Ownership & Identity Protection
 | **CLUE-MARK: Watermarking Diffusion Models using CLWE** | arXiv 2024 | [arXiv:2411.11434](https://arxiv.org/abs/2411.11434) | Latent Watermarking | None |
 | **PCDiff: Proactive Control for Ownership Protection** | arXiv 2025 | [arXiv:2504.11774](https://arxiv.org/abs/2504.11774) | Ownership + Traceability | None |
 | **PT-Mark: Invisible Watermarking via Semantic Tuning** | arXiv 2025 | [arXiv:2504.10853](https://arxiv.org/abs/2504.10853) | Semantic-aware Tuning | None |
-| **Flexible Semantic Watermarking** | ACM 2024 | [DOI:10.1145/3696409.3700282](https://dl.acm.org/doi/abs/10.1145/3696409.3700282) | Diffusion Sampling | None |
+| **Towards a Correct Usage of Cryptography in Semantic Watermarks** | arXiv 2025 | [arXiv:2503.11404](https://arxiv.org/abs/2503.11404) | Cryptography-based Semantic Watermarking | None |
 | **Robin: Robust and Invisible Watermarks for Diffusion Models** | NeurIPS 2024 | [PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/073c8584ef86bee26fe9d639ec648e28-Paper-Conference.pdf) | Adversarial Watermarking | None |
-| **Are Watermarks for Diffusion Models Radioactive?** | OpenReview 2024 | [Link](https://openreview.net/forum?id=gtXbVRMwQh) | Watermark Training | None |
+| **Invisible Yet Robust: Watermarking Diffusion Models with Adversarial Latents** | arXiv 2024 | [arXiv:2406.08337](https://arxiv.org/abs/2406.08337) | Latent Adversarial Watermarking | None |
+| **Are Watermarks for Diffusion Models Radioactive?** | OpenReview 2024 | [Link](https://openreview.net/forum?id=gtXbVRMwQh) | Watermark Robustness Analysis | None |
 | **Gauge Flow Matching for Constrained Generative Modeling** | ICLR Workshop 2025 | [PDF](https://openreview.net/pdf?id=QyIlskgko9) | Constrained Diffusion | None |
+
 
 ---
 
