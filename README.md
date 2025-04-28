@@ -79,7 +79,7 @@ Ownership & Identity Protection
 | **Invisible Yet Robust: Watermarking Diffusion Models with Adversarial Latents** | arXiv 2024 | [arXiv:2406.08337](https://arxiv.org/abs/2406.08337) | Latent Adversarial Watermarking | None |
 | **Are Watermarks for Diffusion Models Radioactive?** | OpenReview 2024 | [Link](https://openreview.net/forum?id=gtXbVRMwQh) | Watermark Robustness Analysis | None |
 | **Gauge Flow Matching for Constrained Generative Modeling** | ICLR Workshop 2025 | [PDF](https://openreview.net/pdf?id=QyIlskgko9) | Constrained Diffusion | None |
-
+| **DiffusionGuard: Protecting Diffusion Models Against Visual Prompt Injection via Robust Watermarking** | arXiv 2024 | [arXiv:2410.05694](https://arxiv.org/abs/2410.05694) | Robust Output Watermarking | [GitHub](https://github.com/ml-postech/DiffusionGuard) |
 
 ---
 
@@ -91,7 +91,6 @@ Ownership & Identity Protection
 | **DTR: Tree-Ring Watermarking for Videos** | IEEE ICASSP 2025 | [IEEE Abstract](https://ieeexplore.ieee.org/abstract/document/10888152) | Video Hierarchical WM | None |
 | **Gradient-free Decoder Inversion in Latent Diffusion** | NeurIPS 2024 | [Link](https://proceedings.neurips.cc/paper_files/paper/2024/file/970f59b22f4c72aec75174aae63c7459-Paper-Conference.pdf) | Decoder Inversion | None |
 | **Watermarks vs. Perturbations for Preventing Style Editing** | OpenReview Workshop 2024 | [Link](https://openreview.net/forum?id=mRCXybDMF6) | Defense Strategies | None |
-| **DiffusionGuard: Protecting Diffusion Models Against Visual Prompt Injection via Robust Watermarking** | arXiv 2023 | [arXiv:2410.05694](https://arxiv.org/abs/2410.05694)| Robust Output Watermarking | None |
 
 ---
 
