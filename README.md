@@ -65,6 +65,23 @@ Ownership & Identity Protection
 
 ---
 
+---
+
+## Implementations
+
+The following implementations are organized by technique:
+
+| Category | Folder | Description |
+|----------|--------|-------------|
+| **Latent-Space Watermarking** | [`latent_space_watermarking`](./implementations/latent_space_watermarking) | PT-Mark, CLUE-MARK, Robin (no training needed) |
+| **Pixel-Domain Watermarking** | [`pixel_watermarking`](./implementations/pixel_watermarking) | Baseline/stego (e.g., RivaGAN, DwtDct) |
+| **Ownership Protection** | [`ownership_protection`](./implementations/ownership_protection) | e.g. PCDiff, WaDiff |
+| **Provenance Verification** | [`provenance_verification`](./implementations/provenance_verification) | Fingerprints, Stable Signature |
+
+Each folder contains code and minimal examples (mostly no training needed).
+
+--
+
 ## Surveyed Papers
 
 ### 1. Model-level Watermarking
