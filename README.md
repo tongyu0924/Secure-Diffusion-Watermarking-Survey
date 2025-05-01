@@ -67,7 +67,7 @@ Ownership & Identity Protection
 
 ## Implementations
 
-The following implementations are organized by technique and usability:
+The following implementations cover key watermarking techniques across different architectures.
 
 | Category | Folder | Description |
 |----------|--------|-------------|
@@ -77,7 +77,7 @@ The following implementations are organized by technique and usability:
 | **Ownership Protection** | None | Referenced method only (e.g., [WaDiff (official repo)](https://github.com/rmin2000/WaDiff) — not implemented here |
 | **Provenance Verification** | None | Referenced methods only (e.g., Stable Signature) — not implemented |
 
-Each folder includes code and minimal examples. Most implementations require no model retraining.  
+Each folder includes code and minimal examples.  
 For usage and execution instructions, please refer to the corresponding `README.md` file inside each folder.
 
 ---
