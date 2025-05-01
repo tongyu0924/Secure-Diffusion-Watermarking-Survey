@@ -78,7 +78,7 @@ The following implementations are organized by technique:
 
 Each folder contains code and minimal examples (mostly no training needed).
 
---
+---
 
 ## Surveyed Papers
 
