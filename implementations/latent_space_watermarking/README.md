@@ -2,9 +2,12 @@
 
 This folder contains reproducible implementations of selected latent-space watermarking methods, including:
 
-- clue_mark: CLUE-MARK (no-training latent editing)
-- pt_mark: PT-MARK-style semantic injection (placeholder)
-- robin, robin_core, robin_light: Robin-related latent watermarking experiments (unofficial)
+# Latent-Space Watermarking
+
+This folder contains implementations of selected latent-space watermarking methods, including:
+
+- `clue_mark`: CLUE-MARK
+- `robin`, `robin_core`, `robin_light`: Robin-based latent watermarking experiments (see: [ROBIN — unofficial](https://github.com/Hannah1102/ROBIN/tree/main))
 
 ---
 
