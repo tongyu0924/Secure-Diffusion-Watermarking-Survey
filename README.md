@@ -74,8 +74,8 @@ The following implementations are organized by technique and usability:
 | **Latent-Space Watermarking** | [`latent_space_watermarking`](./implementations/latent_space_watermarking) ([Robin code — unofficial](https://github.com/Hannah1102/ROBIN)) | CLUE-MARK, Robin (Robin is for reference use only; not benchmarked) |
 | **Pixel-Domain Watermarking** | [`pixel_watermarking`](./implementations/pixel_watermarking) | Direct image-space embedding (e.g., RivaGAN, DwtDct) |
 | **Prompt-Guided Watermarking** | [`prompt_guided_watermarking`](./implementations/prompt_guided_watermarking) | Custom zero-shot watermarking via prompt conditioning with CLIP-based verification |
-| **Ownership Protection** | [WaDiff (official repo)](https://github.com/rmin2000/WaDiff) | Referenced method only — not implemented here |
-| **Provenance Verification** | – | Referenced methods only (e.g., Stable Signature) — not implemented |
+| **Ownership Protection** | None | Referenced method only (e.g., [WaDiff (official repo)](https://github.com/rmin2000/WaDiff) — not implemented here |
+| **Provenance Verification** | None | Referenced methods only (e.g., Stable Signature) — not implemented |
 
 Each folder includes code and minimal examples. Most implementations require no model retraining.
 
