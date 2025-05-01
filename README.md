@@ -65,7 +65,7 @@ Ownership & Identity Protection
 
 ---
 
-## Watermarking Implementations
+## Implementations
 
 The following implementations are organized by technique and usability:
 
