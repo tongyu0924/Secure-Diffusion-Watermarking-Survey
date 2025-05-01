@@ -71,7 +71,7 @@ The following implementations are organized by technique and usability:
 
 | Category | Folder | Description |
 |----------|--------|-------------|
-| **Latent-Space Watermarking** | [`latent_space_watermarking`](./implementations/latent_space_watermarking) ([Robin ↗](https://github.com/VinAIResearch/Robin)) | PT-Mark, CLUE-MARK, Robin |
+| **Latent-Space Watermarking** | [`latent_space_watermarking`](./implementations/latent_space_watermarking) ([Robin — unofficial](https://github.com/Hannah1102/ROBIN)) | PT-Mark, CLUE-MARK, Robin (no official code) |
 | **Pixel-Domain Watermarking** | [`pixel_watermarking`](./implementations/pixel_watermarking) | Direct image-space embedding (e.g., RivaGAN, DwtDct) |
 | **Prompt-Guided Watermarking** | [`prompt_guided_watermarking`](./implementations/prompt_guided_watermarking) | Custom zero-shot watermarking via prompt conditioning with CLIP-based verification |
 | **Ownership Protection** | [`ownership_protection`](./implementations/ownership_protection) | Model fingerprinting or traceable watermarking (e.g., PCDiff, WaDiff) |
