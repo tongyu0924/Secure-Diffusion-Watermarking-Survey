@@ -65,8 +65,6 @@ Ownership & Identity Protection
 
 ---
 
----
-
 ## Implementations
 
 The following implementations are organized by technique:
