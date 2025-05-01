@@ -67,16 +67,17 @@ Ownership & Identity Protection
 
 ## Implementations
 
-The following implementations are organized by technique:
+The following implementations are organized by technique and usability:
 
 | Category | Folder | Description |
 |----------|--------|-------------|
-| **Latent-Space Watermarking** | [`latent_space_watermarking`](./implementations/latent_space_watermarking) | PT-Mark, CLUE-MARK, Robin (no training needed) |
-| **Pixel-Domain Watermarking** | [`pixel_watermarking`](./implementations/pixel_watermarking) | Baseline/stego (e.g., RivaGAN, DwtDct) |
-| **Ownership Protection** | [`ownership_protection`](./implementations/ownership_protection) | e.g. PCDiff, WaDiff |
-| **Provenance Verification** | [`provenance_verification`](./implementations/provenance_verification) | Fingerprints, Stable Signature |
+| **Latent-Space Watermarking** | [`latent_space_watermarking`](./implementations/latent_space_watermarking) | Model-level watermarking in latent space (e.g., PT-Mark, CLUE-MARK, Robin) |
+| **Pixel-Domain Watermarking** | [`pixel_watermarking`](./implementations/pixel_watermarking) | Direct image-space embedding (e.g., RivaGAN, DwtDct) |
+| **Prompt-Guided Watermarking** | [`prompt_guided_watermarking`](./implementations/prompt_guided_watermarking) | Zero-shot watermarking via prompt conditioning (e.g., CLIP-verifiable prompts) |
+| **Ownership Protection** | [`ownership_protection`](./implementations/ownership_protection) | Model fingerprinting or traceable watermarking (e.g., PCDiff, WaDiff) |
+| **Provenance Verification** | [`provenance_verification`](./implementations/provenance_verification) | Generation traceability (e.g., Stable Signature, Fingerprints) |
 
-Each folder contains code and minimal examples (mostly no training needed).
+Each folder includes code and minimal examples. Most implementations require no model retraining.
 
 ---
 
