@@ -94,6 +94,7 @@ For usage and execution instructions, please refer to the corresponding `README.
 | **Towards a Correct Usage of Cryptography in Semantic Watermarks** | arXiv 2025 | [arXiv:2503.11404](https://arxiv.org/abs/2503.11404) | Cryptography-based Semantic Watermarking | None |
 | **Robin: Robust and Invisible Watermarks for Diffusion Models** | NeurIPS 2024 | [PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/073c8584ef86bee26fe9d639ec648e28-Paper-Conference.pdf) | Adversarial Watermarking | None |
 | **Invisible Yet Robust: Watermarking Diffusion Models with Adversarial Latents** | arXiv 2024 | [arXiv:2406.08337](https://arxiv.org/abs/2406.08337) | Latent Adversarial Watermarking | None |
+| **LaWa: Using Latent Space for In-Generation Image Watermarking** | ECCV 2024 | [arXiv:2408.05868](https://arxiv.org/abs/2408.05868) | Latent In-Generation Watermarking | None |
 | **Are Watermarks for Diffusion Models Radioactive?** | OpenReview 2024 | [Link](https://openreview.net/forum?id=gtXbVRMwQh) | Watermark Robustness Analysis | None |
 | **Gauge Flow Matching for Constrained Generative Modeling** | ICLR Workshop 2025 | [PDF](https://openreview.net/pdf?id=QyIlskgko9) | Constrained Diffusion | None |
 | **DiffusionGuard: Protecting Diffusion Models Against Visual Prompt Injection via Robust Watermarking** | arXiv 2024 | [arXiv:2410.05694](https://arxiv.org/abs/2410.05694) | Robust Output Watermarking | [GitHub](https://github.com/ml-postech/DiffusionGuard) |
