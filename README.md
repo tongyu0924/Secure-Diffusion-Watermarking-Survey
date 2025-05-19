@@ -95,9 +95,12 @@ For usage and execution instructions, please refer to the corresponding `README.
 | **Robin: Robust and Invisible Watermarks for Diffusion Models** | NeurIPS 2024 | [PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/073c8584ef86bee26fe9d639ec648e28-Paper-Conference.pdf) | Adversarial Watermarking | None |
 | **Invisible Yet Robust: Watermarking Diffusion Models with Adversarial Latents** | arXiv 2024 | [arXiv:2406.08337](https://arxiv.org/abs/2406.08337) | Latent Adversarial Watermarking | None |
 | **LaWa: Using Latent Space for In-Generation Image Watermarking** | ECCV 2024 | [arXiv:2408.05868](https://arxiv.org/abs/2408.05868) | Latent In-Generation Watermarking | None |
-| **Are Watermarks for Diffusion Models Radioactive?** | OpenReview 2024 | [Link](https://openreview.net/forum?id=gtXbVRMwQh) | Watermark Robustness Analysis | None |
+| **StableSignature: Identity Watermarking for Stable Diffusion** | arXiv 2023 | [arXiv:2310.01856](https://arxiv.org/abs/2310.01856) | Identity-Embedded Latent Watermarking | None |
+| **RoSteALS: Robust Steganography Using Autoencoder Latent Space** | arXiv 2023 | [arXiv:2304.03400](https://arxiv.org/abs/2304.03400) | Latent-space Steganographic Watermarking | None |
+| **Latent Watermark: Inject and Detect Watermarks in Latent Diffusion Models** | arXiv 2024 | [arXiv:2404.00230](https://arxiv.org/abs/2404.00230) | Latent Embedding & Detection | None |
+| **Are Watermarks for Diffusion Models Radioactive?** | OpenReview 2024 | [OpenReview](https://openreview.net/forum?id=gtXbVRMwQh) | Watermark Robustness Analysis | None |
 | **Gauge Flow Matching for Constrained Generative Modeling** | ICLR Workshop 2025 | [PDF](https://openreview.net/pdf?id=QyIlskgko9) | Constrained Diffusion | None |
-| **DiffusionGuard: Protecting Diffusion Models Against Visual Prompt Injection via Robust Watermarking** | arXiv 2024 | [arXiv:2410.05694](https://arxiv.org/abs/2410.05694) | Robust Output Watermarking | [GitHub](https://github.com/ml-postech/DiffusionGuard) |
+| **DiffusionGuard: Protecting Diffusion Models Against Visual Prompt Injection via Robust Watermarking** | arXiv 2024 | [arXiv:2410.05694](https://arxiv.org/abs/2410.05694) | Prompt-level & Output Watermarking | [GitHub](https://github.com/ml-postech/DiffusionGuard) |
 
 ---
 
@@ -118,6 +121,8 @@ For usage and execution instructions, please refer to the corresponding `README.
 | **InvisMark: Invisible and Robust Watermarking for AI-Generated Image Provenance** | WACV 2025 | [arXiv:2411.07795](https://arxiv.org/abs/2411.07795) | Neural Network-Based Watermarking | [GitHub](https://github.com/microsoft/InvisMark) |
 | **Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models** | arXiv 2024 | [arXiv:2410.21088](https://arxiv.org/abs/2410.21088) | Low-Dimensional Subspace Watermarking | None |
 | **ProMark: Proactive Diffusion Watermarking for Causal Attribution** | CVPR 2024 | [Poster](https://cvpr.thecvf.com/virtual/2024/poster/29862) | Causal Attribution Watermarking | None |
+| **StegaStamp: Invisible Learning-based Watermarking in Images** | CVPR 2020 | [arXiv:2003.05538](https://arxiv.org/abs/2003.05538) | Output Neural Watermarking | [GitHub](https://github.com/tancik/StegaStamp) |
+| **WMAdapter: A Plug-and-Play Watermark Adapter for Diffusion Models** | ICLR Workshop 2024 | [OpenReview](https://openreview.net/forum?id=HAD6iZxKuh) | Adapter-based Output Watermarking | None |
 
 ---
 
@@ -133,6 +138,11 @@ For usage and execution instructions, please refer to the corresponding `README.
 | **Watermarking Diffusion Models via Latent Space** | NeurIPS 2024 | [NeurIPS 2024 Paper Link](https://proceedings.neurips.cc/paper/2024/file/abcd1234-Paper-Conference.pdf) | Latent-space Watermarking | None |
 | **Provenance Tracing for Diffusion Models** | CVPR 2024 | [CVPR 2024 Paper Link](https://openaccess.thecvf.com/content_CVPR_2024/html/Yu_Provenance_Tracing_for_Diffusion_Models_CVPR_2024_paper.html) | Provenance Tracing | None |
 | **Secure Watermarking for Diffusion-Based Generative Models** | ICLR 2024 | [ICLR 2024 Paper Link](https://openreview.net/forum?id=abc1234) | Secure Watermarking | None |
+| **GenPTW: In-Generation Image Watermarking for Provenance Tracing and Tamper Localization** | arXiv 2025 | [arXiv:2504.19567](https://arxiv.org/abs/2504.19567) | In-Generation Watermarking | None |
+| **SAT-LDM: Provably Generalizable Image Watermarking for LDMs with Self-Augmented Training** | ICLR 2025 | [OpenReview](https://openreview.net/forum?id=ETFfXGM3e4) | Self-Augmented Training | None |
+| **Tree-Ring Watermarks: Fingerprints for Diffusion Images** | arXiv 2023 | [arXiv:2305.20030](https://arxiv.org/abs/2305.20030) | Fourier-space Fingerprinting | [GitHub](https://github.com/YuxinWenRick/tree-ring-watermark) |
+| **Declaring Model Authentication through Re-Generation** | arXiv 2024 | [arXiv:2402.16889](https://arxiv.org/abs/2402.16889) | Re-Generation Fingerprinting | None |
+| **WOUAF: Weight Modulation for User Attribution and Fingerprinting** | arXiv 2023 | [arXiv:2306.04744](https://arxiv.org/abs/2306.04744) | Weight Modulation Fingerprinting | None |
 
 ---
 
