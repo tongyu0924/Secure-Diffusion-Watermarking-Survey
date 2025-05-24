@@ -13,7 +13,7 @@ Course: NTUST Introduction to Information Security
 
 | File | Description |
 |------|-------------|
-| [`survey.pdf`](./survey.pdf) | Final version of the term report, formatted with IEEE template |
+| [`survey.pdf`](Survey__Secure_Watermarking_and_Traceability_in_Diffusion_Models.pdf) | Final version of the term report, formatted with IEEE template |
   
 ---
 
