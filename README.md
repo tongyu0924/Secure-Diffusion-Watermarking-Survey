@@ -100,7 +100,6 @@ Ownership & Identity Protection
 | **InvisMark: Invisible and Robust Watermarking for AI-Generated Image Provenance** | WACV 2025 | [arXiv:2411.07795](https://arxiv.org/abs/2411.07795) | Neural Network-Based Watermarking | [GitHub](https://github.com/microsoft/InvisMark) |
 | **Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models** | arXiv 2024 | [arXiv:2410.21088](https://arxiv.org/abs/2410.21088) | Low-Dimensional Subspace Watermarking | None |
 | **StegaStamp: Invisible Learning-based Watermarking in Images** | CVPR 2020 | [arXiv:2003.05538](https://arxiv.org/abs/2003.05538) | Output Neural Watermarking | [GitHub](https://github.com/tancik/StegaStamp) |
-| **WMAdapter: A Plug-and-Play Watermark Adapter for Diffusion Models** | ICLR Workshop 2024 | [OpenReview](https://openreview.net/forum?id=HAD6iZxKuh) | Adapter-based Output Watermarking | None |
 
 ---
 
