@@ -105,7 +105,6 @@ Ownership & Identity Protection
 | Title | Venue | Link | Technique | Code |
 |-------|-------|------|-----------|------|
 | **The Stable Signature: Rooting Watermarks in Latent Diffusion Models** | ICCV 2023 | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Fernandez_The_Stable_Signature_Rooting_Watermarks_in_Latent_Diffusion_Models_ICCV_2023_paper.pdf) | Latent-space Watermarking | [GitHub](https://github.com/facebookresearch/stable_signature) |
-| **A Survey on GAN Fingerprints** | IEEE TPAMI 2023 | [DOI](https://ieeexplore.ieee.org/document/10132442) | Survey | None |
 | **Attributing Fake Images to GANs: Learning and Analyzing Fingerprints** | ICCV 2019 | [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Attributing_Fake_Images_to_GANs_Learning_and_Analyzing_GAN_Fingerprints_ICCV_2019_paper.pdf) | Fingerprinting | [GitHub](https://github.com/ningyu1991/GANFingerprints) |
 | **GenPTW: In-Generation Image Watermarking for Provenance Tracing and Tamper Localization** | arXiv 2025 | [arXiv:2504.19567](https://arxiv.org/abs/2504.19567) | In-Generation Watermarking | None |
 | **Tree-Ring Watermarks: Fingerprints for Diffusion Images** | arXiv 2023 | [arXiv:2305.20030](https://arxiv.org/abs/2305.20030) | Fourier-space Fingerprinting | [GitHub](https://github.com/YuxinWenRick/tree-ring-watermark) |
