@@ -34,52 +34,36 @@ Model-level Watermarking
 ├── Latent-space Watermarking
 │   ├── CLUE-MARK (arXiv 2024)
 │   ├── Robin (NeurIPS 2024)
-│   └── Gauge Flow Matching, PT-Mark, etc.
-└── Semantic-aware / Adversarial
-    └── Flexible Semantic WM (ACM 2024), PT-Mark
+│   └── LaWa (arXiv 2024)
+└── Adversarial & Semantic Conditioning
+    ├── InvisMark (WACV 2025)
+    └── PT-Mark (arXiv 2025)
 
 Output-level Traceability
 ├── Image/Video Watermarking
+│   ├── StegaStamp (CVPR 2020)
 │   ├── CoSDA (AAAI 2025)
-│   ├── DTR: Tree-Ring Video (ICASSP 2025)
-│   └── NTU Editing WM, Stable-Diffusion
-└── Decoder Inversion & Perturbation Defenses
+│   └── Tree-Ring Watermark (arXiv 2023)
+└── Decoder Inversion & Robustness Defenses
     ├── Gradient-Free Decoder Inversion (NeurIPS 2024)
-    └── WM vs. Perturbation (OpenReview 2024)
+    └── Watermark Removal vs. Defense Study (arXiv 2024)
 
 Provenance Verification
-├── Fingerprinting & Style Detection
-│   ├── ICCV 2023 (Diffusion Signature)
-│   ├── CVPR 2020, TPAMI 2023 (GAN Fingerprints)
-│   └── Self-supervised Face Detection (OpenReview 2024)
-├── Identity Embedding
+├── Fingerprinting & Residual Signatures
+│   ├── Diffusion Signature Analysis (ICCV 2023)
+│   ├── VIDiff (CVPR 2024)
 │   └── Stable Signature (arXiv 2023)
-└── Diffusion-aware Survey & Tabular Cases
-    ├── Entropy 2025 (Spread-Spectrum WM)
-    └── TU Delft 2024 (Tabular Diffusion)
+├── Identity Embedding
+│   └── TraceMark-LDM (arXiv 2025)
+└── Multimodal & Benchmark Extensions
+    ├── ProMark (CVPR 2024)
+    └── SAT-LDM (arXiv 2024)
 
 Ownership & Identity Protection
-├── PCDiff: Proactive Control for Ownership (arXiv 2025)
-└── WaDiff: Watermark-Conditioned Diffusion Model (arXiv 2024)
+├── PCDiff: Prompt-Controlled Ownership Binding (arXiv 2025)
+├── WaDiff: Watermark-Conditioned Diffusion (arXiv 2024)
+└── Aqualora: LoRA-based Model Authentication (arXiv 2024)
 ```
-
----
-
-## Implementations
-
-The following implementations cover key watermarking techniques across different architectures.
-
-| Category | Folder | Description |
-|----------|--------|-------------|
-| **Latent-Space Watermarking** | [`latent_space_watermarking`](./implementations/latent_space_watermarking) ([Robin code — unofficial](https://github.com/Hannah1102/ROBIN)) | CLUE-MARK, Robin (Robin is for reference use only; not benchmarked) |
-| **Pixel-Domain Watermarking** | [`pixel_watermarking`](./implementations/pixel_watermarking) | Direct image-space embedding (e.g., RivaGAN, DwtDct) |
-| **Prompt-Guided Watermarking** | [`prompt_guided_watermarking`](./implementations/prompt_guided_watermarking) | Custom zero-shot watermarking via prompt conditioning with CLIP-based verification |
-| **Ownership Protection** | None | Referenced method only (e.g., [WaDiff (official repo)](https://github.com/rmin2000/WaDiff) — not implemented here |
-| **Provenance Verification** | None | Referenced methods only (e.g., Stable Signature) — not implemented |
-
-Each folder includes code and minimal examples.  
-For usage and execution instructions, please refer to the corresponding `README.md` file inside each folder.
-
 ---
 
 ## Surveyed Papers
@@ -98,9 +82,8 @@ For usage and execution instructions, please refer to the corresponding `README.
 | **StableSignature: Identity Watermarking for Stable Diffusion** | arXiv 2023 | [arXiv:2310.01856](https://arxiv.org/abs/2310.01856) | Identity-Embedded Latent Watermarking | None |
 | **RoSteALS: Robust Steganography Using Autoencoder Latent Space** | arXiv 2023 | [arXiv:2304.03400](https://arxiv.org/abs/2304.03400) | Latent-space Steganographic Watermarking | None |
 | **Latent Watermark: Inject and Detect Watermarks in Latent Diffusion Models** | arXiv 2024 | [arXiv:2404.00230](https://arxiv.org/abs/2404.00230) | Latent Embedding & Detection | None |
-| **Are Watermarks for Diffusion Models Radioactive?** | OpenReview 2024 | [OpenReview](https://openreview.net/forum?id=gtXbVRMwQh) | Watermark Robustness Analysis | None |
-| **Gauge Flow Matching for Constrained Generative Modeling** | ICLR Workshop 2025 | [PDF](https://openreview.net/pdf?id=QyIlskgko9) | Constrained Diffusion | None |
 | **DiffusionGuard: Protecting Diffusion Models Against Visual Prompt Injection via Robust Watermarking** | arXiv 2024 | [arXiv:2410.05694](https://arxiv.org/abs/2410.05694) | Prompt-level & Output Watermarking | [GitHub](https://github.com/ml-postech/DiffusionGuard) |
+| **ProMark: Proactive Diffusion Watermarking for Causal Attribution** | CVPR 2024 | [Poster](https://cvpr.thecvf.com/virtual/2024/poster/29862) | Causal Attribution Watermarking | None |
 
 ---
 
@@ -111,16 +94,12 @@ For usage and execution instructions, please refer to the corresponding `README.
 | **CoSDA: Inversion-based Robust Watermarking** | AAAI 2025 | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/32295) | Output Watermarking | None |
 | **DTR: Tree-Ring Watermarking for Videos** | IEEE ICASSP 2025 | [IEEE Abstract](https://ieeexplore.ieee.org/abstract/document/10888152) | Video Hierarchical WM | None |
 | **Gradient-free Decoder Inversion in Latent Diffusion** | NeurIPS 2024 | [Link](https://proceedings.neurips.cc/paper_files/paper/2024/file/970f59b22f4c72aec75174aae63c7459-Paper-Conference.pdf) | Decoder Inversion | None |
-| **Watermarks vs. Perturbations for Preventing Style Editing** | OpenReview Workshop 2024 | [Link](https://openreview.net/forum?id=mRCXybDMF6) | Defense Strategies | None |
 | **Provenance Signature for Diffusion Model Outputs** | CVPR 2024 | [arXiv:2312.06688](https://arxiv.org/abs/2312.06688) | Output Provenance Tracking | None |
 | **VIDiff: Video Diffusion Model Fingerprinting** | CVPR 2024 | [arXiv:2312.00286](https://arxiv.org/abs/2312.00286) | Video Output Fingerprinting | [GitHub](https://github.com/hytseng0509/VIDiff) |
-| **GenTrace: Provenance Tracing for Diffusion Models** | ICLR 2024 | [OpenReview](https://openreview.net/forum?id=8Ez0cWrdA5) | Latent-space Tracing | None |
 | **DiffuseTrace: A Transparent and Flexible Watermarking Scheme for Latent Diffusion Model** | arXiv 2024 | [arXiv:2405.02696](https://arxiv.org/abs/2405.02696) | Semantic Latent Watermarking | None |
-| **ROBIN: Robust and Invisible Watermarks for Diffusion Models with Adversarial Optimization** | NeurIPS 2024 | [arXiv:2411.03862](https://arxiv.org/abs/2411.03862) | Adversarial Watermarking | None |
 | **ZoDiAc: Attack-Resilient Image Watermarking Using Stable Diffusion** | NeurIPS 2024 | [arXiv:2401.04247](https://arxiv.org/abs/2401.04247) | Latent Space Watermarking | [GitHub](https://github.com/zhanglijun95/ZoDiac) |
 | **InvisMark: Invisible and Robust Watermarking for AI-Generated Image Provenance** | WACV 2025 | [arXiv:2411.07795](https://arxiv.org/abs/2411.07795) | Neural Network-Based Watermarking | [GitHub](https://github.com/microsoft/InvisMark) |
 | **Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models** | arXiv 2024 | [arXiv:2410.21088](https://arxiv.org/abs/2410.21088) | Low-Dimensional Subspace Watermarking | None |
-| **ProMark: Proactive Diffusion Watermarking for Causal Attribution** | CVPR 2024 | [Poster](https://cvpr.thecvf.com/virtual/2024/poster/29862) | Causal Attribution Watermarking | None |
 | **StegaStamp: Invisible Learning-based Watermarking in Images** | CVPR 2020 | [arXiv:2003.05538](https://arxiv.org/abs/2003.05538) | Output Neural Watermarking | [GitHub](https://github.com/tancik/StegaStamp) |
 | **WMAdapter: A Plug-and-Play Watermark Adapter for Diffusion Models** | ICLR Workshop 2024 | [OpenReview](https://openreview.net/forum?id=HAD6iZxKuh) | Adapter-based Output Watermarking | None |
 
@@ -130,7 +109,6 @@ For usage and execution instructions, please refer to the corresponding `README.
 
 | Title | Venue | Link | Technique | Code |
 |-------|-------|------|-----------|------|
-| **Self-supervised Representations for Detecting AI-Generated Faces** | OpenReview 2024 | [Link](https://openreview.net/forum?id=yXKnzFxNWK) | Style-based Fingerprinting | None |
 | **Who Made This Image? Detecting Generative Models via Traces in Diffusion** | ICCV 2023 | [arXiv](https://arxiv.org/abs/2303.09527) | Diffusion Signature | None |
 | **Stable Signature: Identity Watermarking for Stable Diffusion** | arXiv 2023 | [arXiv:2310.01856](https://arxiv.org/abs/2310.01856) | Watermark Embedding | None |
 | **A Survey on GAN Fingerprints** | IEEE TPAMI 2023 | [DOI](https://ieeexplore.ieee.org/document/10132442) | Survey | None |
