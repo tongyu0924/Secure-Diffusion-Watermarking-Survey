@@ -77,9 +77,8 @@ Ownership & Identity Protection
 | **PT-Mark: Invisible Watermarking via Semantic Tuning** | arXiv 2025 | [arXiv:2504.10853](https://arxiv.org/abs/2504.10853) | Semantic-aware Tuning | None |
 | **Towards a Correct Usage of Cryptography in Semantic Watermarks** | arXiv 2025 | [arXiv:2503.11404](https://arxiv.org/abs/2503.11404) | Cryptography-based Semantic Watermarking | None |
 | **Robin: Robust and Invisible Watermarks for Diffusion Models** | NeurIPS 2024 | [PDF](https://proceedings.neurips.cc/paper_files/paper/2024/file/073c8584ef86bee26fe9d639ec648e28-Paper-Conference.pdf) | Adversarial Watermarking | None |
-| **Invisible Yet Robust: Watermarking Diffusion Models with Adversarial Latents** | arXiv 2024 | [arXiv:2406.08337](https://arxiv.org/abs/2406.08337) | Latent Adversarial Watermarking | None |
 | **LaWa: Using Latent Space for In-Generation Image Watermarking** | ECCV 2024 | [arXiv:2408.05868](https://arxiv.org/abs/2408.05868) | Latent In-Generation Watermarking | None |
-| **StableSignature: Identity Watermarking for Stable Diffusion** | arXiv 2023 | [arXiv:2310.01856](https://arxiv.org/abs/2310.01856) | Identity-Embedded Latent Watermarking | None |
+| **The Stable Signature: Rooting Watermarks in Latent Diffusion Models** | ICCV 2023 | [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Fernandez_The_Stable_Signature_Rooting_Watermarks_in_Latent_Diffusion_Models_ICCV_2023_paper.pdf) | Identity-Embedded Latent Watermarking | None |
 | **RoSteALS: Robust Steganography Using Autoencoder Latent Space** | arXiv 2023 | [arXiv:2304.03400](https://arxiv.org/abs/2304.03400) | Latent-space Steganographic Watermarking | None |
 | **Latent Watermark: Inject and Detect Watermarks in Latent Diffusion Models** | arXiv 2024 | [arXiv:2404.00230](https://arxiv.org/abs/2404.00230) | Latent Embedding & Detection | None |
 | **DiffusionGuard: Protecting Diffusion Models Against Visual Prompt Injection via Robust Watermarking** | arXiv 2024 | [arXiv:2410.05694](https://arxiv.org/abs/2410.05694) | Prompt-level & Output Watermarking | [GitHub](https://github.com/ml-postech/DiffusionGuard) |
