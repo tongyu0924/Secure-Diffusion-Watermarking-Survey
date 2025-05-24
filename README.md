@@ -82,7 +82,7 @@ Ownership & Identity Protection
 | **RoSteALS: Robust Steganography Using Autoencoder Latent Space** | arXiv 2023 | [arXiv:2304.03400](https://arxiv.org/abs/2304.03400) | Latent-space Steganographic Watermarking | None |
 | **Latent Watermark: Inject and Detect Watermarks in Latent Diffusion Models** | arXiv 2024 | [arXiv:2404.00230](https://arxiv.org/abs/2404.00230) | Latent Embedding & Detection | None |
 | **DiffusionGuard: Protecting Diffusion Models Against Visual Prompt Injection via Robust Watermarking** | arXiv 2024 | [arXiv:2410.05694](https://arxiv.org/abs/2410.05694) | Prompt-level & Output Watermarking | [GitHub](https://github.com/ml-postech/DiffusionGuard) |
-| **ProMark: Proactive Diffusion Watermarking for Causal Attribution** | CVPR 2024 | [Poster](https://cvpr.thecvf.com/virtual/2024/poster/29862) | Causal Attribution Watermarking | None |
+| **ProMark: Proactive Diffusion Watermarking for Causal Attribution** | CVPR 2024 | [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Asnani_ProMark_Proactive_Diffusion_Watermarking_for_Causal_Attribution_CVPR_2024_paper.pdf) | Causal Attribution Watermarking | None |
 
 ---
 
