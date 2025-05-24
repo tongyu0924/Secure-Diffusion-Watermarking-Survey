@@ -96,7 +96,7 @@ Ownership & Identity Protection
 | **DiffuseTrace: A Transparent and Flexible Watermarking Scheme for Latent Diffusion Model** | arXiv 2024 | [arXiv:2405.02696](https://arxiv.org/abs/2405.02696) | Semantic Latent Watermarking | None |
 | **InvisMark: Invisible and Robust Watermarking for AI-Generated Image Provenance** | WACV 2025 | [arXiv:2411.07795](https://arxiv.org/abs/2411.07795) | Neural Network-Based Watermarking | [GitHub](https://github.com/microsoft/InvisMark) |
 | **Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models** | arXiv 2024 | [arXiv:2410.21088](https://arxiv.org/abs/2410.21088) | Low-Dimensional Subspace Watermarking | None |
-| **StegaStamp: Invisible Learning-based Watermarking in Images** | CVPR 2020 | [arXiv:2003.05538](https://arxiv.org/abs/2003.05538) | Output Neural Watermarking | [GitHub](https://github.com/tancik/StegaStamp) |
+| **StegaStamp: Invisible Learning-based Watermarking in Images** | CVPR 2020 | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tancik_StegaStamp_Invisible_Hyperlinks_in_Physical_Photographs_CVPR_2020_paper.pdf) | Output Neural Watermarking | [GitHub](https://github.com/tancik/StegaStamp) |
 
 ---
 
