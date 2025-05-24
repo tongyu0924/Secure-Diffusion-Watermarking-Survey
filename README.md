@@ -93,7 +93,6 @@ Ownership & Identity Protection
 | **CoSDA: Inversion-based Robust Watermarking** | AAAI 2025 | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/32295) | Output Watermarking | None |
 | **DTR: Tree-Ring Watermarking for Videos** | IEEE ICASSP 2025 | [IEEE Abstract](https://ieeexplore.ieee.org/abstract/document/10888152) | Video Hierarchical WM | None |
 | **Gradient-free Decoder Inversion in Latent Diffusion** | NeurIPS 2024 | [Link](https://proceedings.neurips.cc/paper_files/paper/2024/file/970f59b22f4c72aec75174aae63c7459-Paper-Conference.pdf) | Decoder Inversion | None |
-| **Provenance Signature for Diffusion Model Outputs** | CVPR 2024 | [arXiv:2312.06688](https://arxiv.org/abs/2312.06688) | Output Provenance Tracking | None |
 | **DiffuseTrace: A Transparent and Flexible Watermarking Scheme for Latent Diffusion Model** | arXiv 2024 | [arXiv:2405.02696](https://arxiv.org/abs/2405.02696) | Semantic Latent Watermarking | None |
 | **ZoDiAc: Attack-Resilient Image Watermarking Using Stable Diffusion** | NeurIPS 2024 | [arXiv:2401.04247](https://arxiv.org/abs/2401.04247) | Latent Space Watermarking | [GitHub](https://github.com/zhanglijun95/ZoDiac) |
 | **InvisMark: Invisible and Robust Watermarking for AI-Generated Image Provenance** | WACV 2025 | [arXiv:2411.07795](https://arxiv.org/abs/2411.07795) | Neural Network-Based Watermarking | [GitHub](https://github.com/microsoft/InvisMark) |
