@@ -104,16 +104,13 @@ Ownership & Identity Protection
 
 | Title | Venue | Link | Technique | Code |
 |-------|-------|------|-----------|------|
-| **Stable Signature: Identity Watermarking for Stable Diffusion** | arXiv 2023 | [arXiv:2310.01856](https://arxiv.org/abs/2310.01856) | Watermark Embedding | None |
+| **The Stable Signature: Rooting Watermarks in Latent Diffusion Models** | ICCV 2023 | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Fernandez_The_Stable_Signature_Rooting_Watermarks_in_Latent_Diffusion_Models_ICCV_2023_paper.pdf) | Latent-space Watermarking | [GitHub](https://github.com/facebookresearch/stable_signature) |
 | **A Survey on GAN Fingerprints** | IEEE TPAMI 2023 | [DOI](https://ieeexplore.ieee.org/document/10132442) | Survey | None |
-| **Attributing Fake Images to GANs: Learning and Analyzing Fingerprints** | CVPR 2020 | [CVF Link](https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_Attributing_Fake_Images_to_GANs_Learning_and_Analyzing_Fingerprints_CVPR_2020_paper.html) | Fingerprinting | None |
-| **Watermarking Diffusion Models via Latent Space** | NeurIPS 2024 | [NeurIPS 2024 Paper Link](https://proceedings.neurips.cc/paper/2024/file/abcd1234-Paper-Conference.pdf) | Latent-space Watermarking | None |
-| **Provenance Tracing for Diffusion Models** | CVPR 2024 | [CVPR 2024 Paper Link](https://openaccess.thecvf.com/content_CVPR_2024/html/Yu_Provenance_Tracing_for_Diffusion_Models_CVPR_2024_paper.html) | Provenance Tracing | None |
-| **Secure Watermarking for Diffusion-Based Generative Models** | ICLR 2024 | [ICLR 2024 Paper Link](https://openreview.net/forum?id=abc1234) | Secure Watermarking | None |
+| **Attributing Fake Images to GANs: Learning and Analyzing Fingerprints** | ICCV 2019 | [PDF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Attributing_Fake_Images_to_GANs_Learning_and_Analyzing_GAN_Fingerprints_ICCV_2019_paper.pdf) | Fingerprinting | [GitHub](https://github.com/ningyu1991/GANFingerprints) |
 | **GenPTW: In-Generation Image Watermarking for Provenance Tracing and Tamper Localization** | arXiv 2025 | [arXiv:2504.19567](https://arxiv.org/abs/2504.19567) | In-Generation Watermarking | None |
 | **Tree-Ring Watermarks: Fingerprints for Diffusion Images** | arXiv 2023 | [arXiv:2305.20030](https://arxiv.org/abs/2305.20030) | Fourier-space Fingerprinting | [GitHub](https://github.com/YuxinWenRick/tree-ring-watermark) |
-| **Declaring Model Authentication through Re-Generation** | arXiv 2024 | [arXiv:2402.16889](https://arxiv.org/abs/2402.16889) | Re-Generation Fingerprinting | None |
-| **WOUAF: Weight Modulation for User Attribution and Fingerprinting** | arXiv 2023 | [arXiv:2306.04744](https://arxiv.org/abs/2306.04744) | Weight Modulation Fingerprinting | None |
+| **Generative Models are Self-Watermarked: Declaring Model Authentication through Re-Generation** | arXiv 2024 | [arXiv:2402.16889](https://arxiv.org/abs/2402.16889) | Re-Generation Fingerprinting | None |
+| **WOUAF: Weight Modulation for User Attribution and Fingerprinting in Text-to-Image Diffusion Models** | CVPR 2024 | [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_WOUAF_Weight_Modulation_for_User_Attribution_and_Fingerprinting_in_Text-to-Image_CVPR_2024_paper.pdf) | Weight Modulation Fingerprinting | None |
 
 ---
 
